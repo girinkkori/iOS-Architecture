@@ -586,5 +586,3 @@ MVVM이 물론 완벽하다고 할 순 없습니다. 다음은 MVVM의 단점을
 - [Clean by Uncle Bob](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
 
 ---
-
-### VIPER
